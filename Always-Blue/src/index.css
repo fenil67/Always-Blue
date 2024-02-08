@@ -1,0 +1,4 @@
+/* this is to handle the colour of arrow in accordian element on about page */
+.accordion-button::after {
+    filter: invert(1);
+}
